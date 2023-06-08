@@ -8,18 +8,18 @@
     }
 
     .mail {
-        width: 75%;
+        width: 50%;
     }
 
     .map {
-        width: 68%;
+        width: 50%;
         margin-top: 10px;
     }
 
     button {
         margin-bottom: 20px;
     }
- 
+
 }
 
 @media screen and (max-width:767px) {
@@ -56,11 +56,92 @@
         margin-left: 130px;
     }
 
+    .mail {
+        width: 100%;
+    }
+
     .map {
-        width: 88%;
+        width: 100%;
     }
 
     button {
         margin-bottom: 10px;
+    }
+
+    .z {
+        width: 50%;
+        margin-bottom: 30px;
+    }
+
+    .z1 {
+        width: 50%;
+        margin-bottom: 30px;
+    }
+
+    .z2 {
+        width: 50%;
+        margin-bottom: 30px;
+    }
+
+    .z3 {
+        width: 50%;
+        margin-bottom: 30px;
+    }
+}
+
+@media screen and (max-width:576px) {
+    .c2 {
+        width: 100%;
+    }
+
+    .monila p,
+    .monila h2 {
+        margin-left: 0px;
+    }
+
+    .monila {
+        margin-left: 0px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .testimonial {
+        margin-left: 0px;
+        margin-bottom: 30px;
+        text-align: center;
+        padding: 20px;
+    }
+
+    .k {
+        margin-left: 0px;
+    }
+
+    .contactus {
+        margin-top: 30px;
+        margin-left: 0px;
+    }
+
+    .mail {
+        width:100%;
+    }
+
+    .z {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .z1 {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .z2 {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .z3 {
+        width: 100%;
+        margin-bottom: 30px;
     }
 }
