@@ -1,0 +1,66 @@
+@media screen and (max-width:991px) {
+    .main4 {
+        justify-content: center;
+    }
+
+    .mailsection {
+        justify-content: center;
+    }
+
+    .mail {
+        width: 75%;
+    }
+
+    .map {
+        width: 68%;
+        margin-top: 10px;
+    }
+
+    button {
+        margin-bottom: 20px;
+    }
+ 
+}
+
+@media screen and (max-width:767px) {
+    .a1 {
+        margin-left: 0px;
+        text-align: center;
+        width: 100%;
+    }
+
+    .menu {
+        display: none;
+    }
+
+    .iconbar {
+        display: inline-block;
+    }
+
+    .c1 {
+        text-align: center;
+        width: 100%;
+    }
+
+    .main2 {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .c2 {
+        width: 70%;
+    }
+
+    .contactus {
+        margin-top: 10px;
+        margin-left: 130px;
+    }
+
+    .map {
+        width: 88%;
+    }
+
+    button {
+        margin-bottom: 10px;
+    }
+}
